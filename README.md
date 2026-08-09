@@ -298,11 +298,8 @@ global_regex_setores = {
 
 ---
 
+
 ## 📄 Licença
+© 2026. Todos os direitos reservados.
 
-© 2026. Todos os direitos reservados.  
-Este código é fornecido apenas para fins de portfólio. Nenhuma cópia, distribuição ou uso sem permissão explícita.
-
----
-
-**Desenvolvido como solução prática de automação e análise em ambiente corporativo.**
+Este projeto é disponibilizado exclusivamente para fins de portfólio e demonstração técnica. O código-fonte não pode ser copiado, redistribuído, modificado ou utilizado, integral ou parcialmente, sem autorização prévia e explícita do autor.
