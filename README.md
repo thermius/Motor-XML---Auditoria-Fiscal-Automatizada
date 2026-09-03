@@ -297,9 +297,8 @@ global_regex_setores = {
 - **Descrição:** Automação de análise de documentos fiscais com classificação inteligente por setor
 
 ---
-
-
 ## 📄 Licença
-© 2026. Todos os direitos reservados.
+
+Todos os direitos reservados.
 
 Este projeto é disponibilizado exclusivamente para fins de portfólio e demonstração técnica. O código-fonte não pode ser copiado, redistribuído, modificado ou utilizado, integral ou parcialmente, sem autorização prévia e explícita do autor.
