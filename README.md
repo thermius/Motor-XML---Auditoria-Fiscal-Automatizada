@@ -146,17 +146,6 @@ global_dic_documento = {
 
 ---
 
-## 📋 Saída: Excel + PDF
-
-### Arquivo Excel (XLSX)
-
-Tabela com **uma linha por documento processado:**
-
-| CNPJ do emissor | Chave do documento | Razão social | N° Documento | Data de emissão | Valor | Tipo | Metodo | Status | Setor | Palavra-chave |
-|---|---|---|---|---|---|---|---|---|---|---|
-| 12.345.678/0001-90 | NFe123456... | Empresa A | 001 | 01/01/2026 | 5000.00 | NFe | Regex | OK | Logística | frota |
-| 98.765.432/0001-10 | CTe654321... | Empresa B | 002 | 02/01/2026 | 3000.00 | CTe | Direta | OK | Financeiro | - |
-
 ---
 
 ### Arquivo PDF
@@ -267,13 +256,6 @@ global_regex_setores = {
 - ✅ Automação de processos repetitivos
 
 ---
-
-## 📚 Referências
-
-- **XML em Python:** https://docs.python.org/3/library/xml.etree.elementtree.html
-- **Pandas:** https://pandas.pydata.org/
-- **FPDF2:** https://py-pdf.github.io/fpdf2/
-- **Regex:** https://docs.python.org/3/library/re.html
 
 ---
 
